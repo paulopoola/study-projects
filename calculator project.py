@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# Basic Arithmetic calculator
 
 
 while True:
@@ -37,21 +37,6 @@ while True:
     else:
         print("Uknown Value!")
  
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
