@@ -43,7 +43,8 @@ finally:
 
 
 def ask():
-    while True:
+    waiting = True
+    while waiting:
         try:
             number = 0
             number = int(input('Write a number here: '))
