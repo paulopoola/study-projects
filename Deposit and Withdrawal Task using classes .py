@@ -40,55 +40,7 @@ class Account:
     
 
 
-# In[40]:
 
-
-acct1 = Account('Jose',100)
-
-
-# In[41]:
-
-
-acct1.owner
-
-
-# In[42]:
-
-
-acct1.balance
-
-
-# In[43]:
-
-
-print(acct1)
-
-
-# In[44]:
-
-
-acct1.deposit(50)
-
-
-# In[45]:
-
-
-acct1.withdraw(75)
-
-
-# In[46]:
-
-
-acct1.withdraw(200)
-
-
-# In[47]:
-
-
-acct1.deposit(500)
-
-
-# In[ ]:
 
 
 
