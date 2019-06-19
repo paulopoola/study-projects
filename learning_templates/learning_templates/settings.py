@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'l_t_app.app.LTAppConfig'   #added +'.app.LTAppConfig' check if it works !!!
+    'l_t_app'
 ]
 
 MIDDLEWARE = [
